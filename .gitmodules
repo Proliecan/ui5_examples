@@ -1,0 +1,9 @@
+[submodule "controller"]
+	path = controller
+	url = https://github.com/Proliecan/ui5_example_controller.git
+[submodule "view"]
+	path = view
+	url = https://github.com/Proliecan/ui5_example_view.git
+[submodule "model"]
+	path = model
+	url = https://github.com/Proliecan/ui5_example_model.git
