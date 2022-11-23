@@ -7,3 +7,6 @@
 [submodule "model"]
 	path = model
 	url = https://github.com/Proliecan/ui5_example_model.git
+[submodule "stock-tracker"]
+	path = stock-tracker
+	url = https://github.com/Proliecan/ui5_examples_stock-tracker.git
